@@ -1,6 +1,6 @@
 |# labs1year|
 |-----------|
-## Лаба №1
+## _Лаба №1_
 <details>
   <summary>Задачи:</summary>
   
