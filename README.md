@@ -14,6 +14,9 @@ ________________
      3*. Написать программу, находящую все 4х значные числа "Вампиры".
 </details>
 [Решение первой задачи через if](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.1.1)
+
 [Решение первой задачи через switch](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.1.2)
+
 [Решение второй задачи](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.2)
+
 [Решение третей задачи](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.3)
