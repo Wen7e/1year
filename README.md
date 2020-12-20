@@ -2,7 +2,7 @@
 |-----------|
 ## _Лаба №1_
 <details>
-  <summary>Задачи:</summary>
+  <summary>Задания:</summary>
   
      1. Создать программу, предлагающую пользователю получтиь информацию об одной из 6ти валют мира.
      В программе должна содержаться краткая ( название ) и развёрнутая информация.
@@ -22,4 +22,4 @@
 
 [Решение третей задачи](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.3)
 
-![screenshot of sample](http://webdesign.ru.net/images/Heydon_min.jpg)
+
