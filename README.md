@@ -1,4 +1,4 @@
-|# labs1year|
+|# 1semester|
 |-----------|
 ## _Лаба №1_
 <details>
