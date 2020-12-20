@@ -1,6 +1,7 @@
 |# 1semester|
 |-----------|
 ## _Лаба №1_
+---
 <details>
   <summary>Задания:</summary>
   
