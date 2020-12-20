@@ -24,5 +24,5 @@
 [Решение третей задачи](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.3)
 
 ---
-
+## _Лаба №2_
 
