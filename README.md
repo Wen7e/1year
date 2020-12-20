@@ -21,6 +21,7 @@
 [Решение второй задачи](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.2)
 
 [Решение третей задачи](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.3)
+
 ---
 
 
