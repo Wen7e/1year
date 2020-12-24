@@ -15,13 +15,13 @@
      3*. Написать программу, находящую все 4х значные числа "Вампиры".
 </details>
 
-[Решение первой задачи через if](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.1.1)
+[Решение первого задания через if](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.1.1)
 
-[Решение первой задачи через switch](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.1.2)
+[Решение первого задания через switch](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.1.2)
 
-[Решение второй задачи](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.2)
+[Решение второго задания](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.2)
 
-[Решение третей задачи](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.3)
+[Решение третьего задания](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.3)
 
 ---
 ## _Лаба №2_
@@ -33,11 +33,11 @@
      3.Написать программу, которая запрашивает два числа от пользователя и выводит их сумму на экран.
 </details>
 
-[Решение первой задачи](https://github.com/Wen7e/labs1year/blob/2laba/2.1)
+[Решение первого задания](https://github.com/Wen7e/labs1year/blob/2laba/2.1)
 
-[Решение второй задачи](https://github.com/Wen7e/labs1year/blob/2laba/2.2)
+[Решение второго задания](https://github.com/Wen7e/labs1year/blob/2laba/2.2)
 
-[Решение третей задачи](https://github.com/Wen7e/labs1year/blob/2laba/2.3)
+[Решение третьего задания](https://github.com/Wen7e/labs1year/blob/2laba/2.3)
 
 ---
 ## _Лаба №3_
@@ -50,9 +50,9 @@
      количество элементов в которой равно аргументу.
 </details>
 
-[Решение первой задачи](https://github.com/Wen7e/labs1year/blob/3laba/3.1)
+[Решение первого задания](https://github.com/Wen7e/labs1year/blob/3laba/3.1)
 
-[Решение второй задачи](https://github.com/Wen7e/labs1year/blob/3laba/3.2)
+[Решение второго задания](https://github.com/Wen7e/labs1year/blob/3laba/3.2)
 
 ---
 ## _Лаба №4_
@@ -96,3 +96,21 @@
  </details>
 
 [Решение](https://github.com/Wen7e/labs1year/blob/6laba/6.1)
+
+---
+## _Лаба №7_
+ <details>
+  <summary>Задание:</summary>  
+  
+     1. Написать программу, заполняющую и создающую 2 мерный массив [n][n] и заполняющую его изначально нулями.
+     Выводящую пустой массив в консоль. 
+     Затем предоставляющую пользователю выбор действий:
+     - Заполнить по диагонали
+     - Заполнить по обратной диагонали
+     - Заполнить зигзагом
+     - Заполнить все, кроме диагоналей
+     Заполнение производить единицами.
+ </details>
+
+[Решение]()
+
