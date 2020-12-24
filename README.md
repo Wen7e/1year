@@ -92,6 +92,7 @@
 
 
 ---
+
 ## _Лаба №6_
 <details>
   <summary>Задание:</summary>  
