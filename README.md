@@ -72,7 +72,7 @@
 [Решение](https://github.com/Wen7e/labs1year/blob/4laba/4.1%20and%204.2)
 
 ---
-## Лаба №5 
+## _Лаба №5_ 
 <details>
   <summary>Задание:</summary>  
   
@@ -84,4 +84,15 @@
      имеется, информация по каждому.
 <details>
   
-[Решение]()
+[Решение](https://github.com/Wen7e/labs1year/blob/5laba/5.1)
+
+---
+## _Лаба №6_
+<details>
+  <summary>Задание:</summary>  
+  
+     1. Написать программу, принимающую число в виде строки и выводящую на экран расшифровку 
+     этого числа словами ( на Английском ). Диапазон чисел unsigned long int.
+</details>
+
+[Решение](https://github.com/Wen7e/labs1year/blob/6laba/6.1)
