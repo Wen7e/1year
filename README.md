@@ -1,7 +1,7 @@
 |# 1semester|
 |-----------|
 ---
-## _Лаба №1_
+## _Лабораторная №1_
 <details>
   <summary>Задания:</summary>
   
@@ -24,7 +24,7 @@
 [Решение третьего задания](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.3)
 
 ---
-## _Лаба №2_
+## _Лабораторная №2_
 <details>
   <summary>Задания:</summary>
   
@@ -40,7 +40,7 @@
 [Решение третьего задания](https://github.com/Wen7e/labs1year/blob/2laba/2.3)
 
 ---
-## _Лаба №3_
+## _Лабораторная №3_
 <details>
   <summary>Задания:</summary>
   
@@ -55,7 +55,7 @@
 [Решение второго задания](https://github.com/Wen7e/labs1year/blob/3laba/3.2)
 
 ---
-## _Лаба №4_
+## _Лабораторная №4_
 <details>
   <summary>Задания:</summary>  
   
@@ -72,7 +72,7 @@
 [Решение](https://github.com/Wen7e/labs1year/blob/4laba/4.1%20and%204.2)
 
 ---
-## _Лаба №5_ 
+## _Лабораторная №5_ 
  <details>
   <summary>Задание:</summary>  
   
@@ -87,7 +87,7 @@
 [Решение](https://github.com/Wen7e/labs1year/blob/5laba/5.1)
 
 ---
-## _Лаба №6_
+## _Лабораторная №6_
  <details>
   <summary>Задание:</summary>  
   
@@ -98,7 +98,7 @@
 [Решение](https://github.com/Wen7e/labs1year/blob/6laba/6.1)
 
 ---
-## _Лаба №7_
+## _Лабораторная №7_
  <details>
   <summary>Задание:</summary>  
   
