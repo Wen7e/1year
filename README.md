@@ -112,5 +112,5 @@
      Заполнение производить единицами.
  </details>
 
-[Решение]()
+[Решение](https://github.com/Wen7e/labs1year/blob/7laba/7.1)
 
