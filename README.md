@@ -84,7 +84,7 @@
      имеется, информация по каждому.
 <details>
   
-  [Решение](https://github.com/Wen7e/labs1year/blob/5laba/5.1)
+[Решение](https://github.com/Wen7e/labs1year/blob/5laba/5.1)
 
 
 ---
