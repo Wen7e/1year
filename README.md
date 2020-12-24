@@ -23,6 +23,7 @@
 
 [Решение третей задачи](https://github.com/Wen7e/labs1year/blob/1laba/1laba/1.3)
 
+
 ---
 ## _Лаба №2_
 <details>
@@ -39,6 +40,7 @@
 
 [Решение третей задачи](https://github.com/Wen7e/labs1year/blob/2laba/2.3)
 
+
 ---
 ## _Лаба №3_
 <details>
@@ -53,6 +55,7 @@
 [Решение первой задачи](https://github.com/Wen7e/labs1year/blob/3laba/3.1)
 
 [Решение второй задачи](https://github.com/Wen7e/labs1year/blob/3laba/3.2)
+
 
 ---
 ## _Лаба №4_
@@ -71,6 +74,7 @@
 
 [Решение](https://github.com/Wen7e/labs1year/blob/4laba/4.1%20and%204.2)
 
+
 ---
 ## _Лаба №5_ 
 <details>
@@ -85,6 +89,7 @@
 <details>
   
 [Решение](https://github.com/Wen7e/labs1year/blob/5laba/5.1)
+
 
 ---
 ## _Лаба №6_
